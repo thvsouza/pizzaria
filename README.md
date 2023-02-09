@@ -1,4 +1,8 @@
-##### Pizzaria
+# PPROJETO PIZZARIA (COMEÇO DE TUDO)
+=============================================
+# First steps
+> Realizamos uam reunião em grupo para definir o segmento do projeto
+> > Definimos que o projeto teria dois tipos de usuários (Cliente e Fornecedor)
 
 ## Como instalar BD
 - TBD
